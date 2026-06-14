@@ -1,0 +1,12 @@
+{
+  "name": "privacy-policy-generator",
+  "version": "1.0.0",
+  "description": "Generate professional privacy policies for your website or app",
+  "scripts": {
+    "dev": "npx wrangler pages dev public",
+    "deploy": "npx wrangler pages deploy public --project-name privacy-policy-generator"
+  },
+  "keywords": ["privacy policy", "generator", "gdpr", "ccpa", "legal"],
+  "author": "",
+  "license": "MIT"
+}
